@@ -1,0 +1,37 @@
+# =========================
+# CLion / JetBrains
+# =========================
+.idea/
+*.iws
+cmake-build-*/
+
+# =========================
+# CMake
+# =========================
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# =========================
+# Build files
+# =========================
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# =========================
+# Mac
+# =========================
+.DS_Store
+
+# =========================
+# Windows
+# =========================
+Thumbs.db
